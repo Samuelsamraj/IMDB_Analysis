@@ -61,7 +61,7 @@ Explored the relationship between movie budgets and their financial success. Ana
 
 ## Dashboards
 
-Dashboards with visualizations for each analysis task are provided in the 'dashboards' directory.
+Dashboard : https://drive.google.com/file/d/1Da_o_s5hvG0VicklVbbVVERHkCdmfxQk/view?usp=sharing  
 
 
 
